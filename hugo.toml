@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = 'devXlog tech blog'
 theme = 'hugo-theme-stack'
 
-
-[Params]
+[params]
   favicon = "images/favicon.ico"
   [params.sidebar]
      subtitle = '@WEMADE'
+     
